@@ -13,6 +13,10 @@ create table
         
  open port of mysql and appache 
  
+ index.html
+ 
+![index](https://user-images.githubusercontent.com/70889088/93086851-5e4f7300-f6b5-11ea-8930-e8bbc08829a7.png)
+
         
         
         
