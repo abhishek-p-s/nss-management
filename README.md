@@ -20,5 +20,9 @@ create table
  
  front page
         
-  ![image](https://user-images.githubusercontent.com/70889088/93087849-c2266b80-f6b6-11ea-9fc7-620429fad97d.png)      
+ ![image](https://user-images.githubusercontent.com/70889088/93087849-c2266b80-f6b6-11ea-9fc7-620429fad97d.png)
+ 
+ student data
+  
+ ![image](https://user-images.githubusercontent.com/70889088/93088216-41b43a80-f6b7-11ea-80ff-16dddb0cd100.png)
         
